@@ -1,0 +1,76 @@
+Building Modern User Interface (UI)
+Critical Principles Every Designers Should Know.
+The success of an application or website depends greatly on its user interface (UI). A well-designed UI is not just about aesthetics, it’s about creating an experience that is intuitive, efficient, and delightful for the user. The challenge lies in building interfaces that not only look good but also function seamlessly. To achieve this, designers must rely on a score of visual design principles that serve as the foundation of effective UI design.
+These principles are not just theoretical concepts, but practical tools that, when applied correctly, transform interfaces into user-friendly environments. understanding and implementing these principles is crucial to both professionals and beginners.
+
+This article explores six (6) critical visual design principles for designing modern user interfaces. Let’s dive in and discover how you can elevate your UI design to the next level.
+
+1. Consistency
+Consistency ensures that similar elements look and behave predictably. For example, to ensure consistency, uniformity, and harmony across different screens in design, it is recommended to use the same button styles, color schemes, and typography.
+
+
+Fig. 1: Principle of consistency
+As visualized above, the design on the left is not consistent in terms of font family, colour, and button style. While, the one on the right has a consistent pattern of font, colour, and button style.
+
+2. Visual Hierarchy
+Visual hierarchy involves arranging elements to indicate their levels of importance, guiding users through the content efficiently.
+
+Steps to take to ensure visual hierarchy in design
+(a) Use different font sizes to indicate levels of importance among the text object
+
+(b) Use different colour to indicate levels of importance among the text object
+
+(c) Use different font-weight to indicate levels of importance among the text object
+
+(d) Create visual groups for text objects that are related
+
+(e) Use adequate spacing around important texts.
+
+As seen in the image below, the first design does not portray a good hierarchical design meanwhile the second one has a good visual hierarchy because it contains appropriate font size, weight, colour, and adequate spacing around texts.
+
+
+Fig. 2: Principle of visual hierarchy
+3. Contrast
+
+Fig. 3: Principle of contrast
+In Figure 3 above, the image on the left has poor contrast, which makes it difficult for users to read clearly whereas, the image on the left has high contrast which allows users to read without stress.
+
+Note: To ensure high contrast in design avoid using two bright colours (e.g. Green and Red). Rather use dark and light colours (such as White and Black, Purple and White, etc.).
+
+In a nutshell, contrast is used to highlight differences between elements, making them more distinguishable. It can be achieved through variations in color, size, and shape. High contrast between text and background improves readability.
+
+4. Alignment
+Alignment creates a clean and organized look by ensuring elements are properly lined up. This creates a sense of order for readers.
+As shown in the figure below, the image on the left is not aligned properly but the one on the right has a left alignment which makes the design look clean and organized.
+
+
+Fig. 4: Principle of alignment
+5. Balance
+Balance refers to the distribution and visual weight of elements across a design layout. One feature of a well-balanced design is that it is aesthetically attractive and radiates balance. It can be symmetrical (evenly distributed) or asymmetrical (balanced by weight and height).
+In the images below, the left image shows the symmetrical balance and how an element can be evenly distributed while the one on the right-hand side shows asymmetrical balance and how an object on layout is balanced based on weight and height.
+
+
+fig. 5: Principle of balance
+6. Legibility
+Legibility focuses on how easily a reader can distinguish and read the characters and text within a design. It is a critical factor in ensuring that users can efficiently read and understand the content.
+
+Legibility depends on:
+(a) Font Choice: Using clear, readable fonts that are not overly decorative. Sans-serif fonts are generally considered more legible on screens.
+
+(b) Font Size: Choosing appropriate font sizes for different types of content, ensuring that text is large enough to be read comfortably.
+
+(c) Line Height and Spacing: Providing adequate line height (leading) and letter spacing (kerning) to prevent text from appearing cramped and to enhance readability.
+
+(d) Text Alignment: Using left-aligned text for body content as it is easier to read compared to centered or justified text, which can create uneven spacing.
+
+(e) Contrast and Color: Ensuring sufficient contrast between text and background colors to make the text stand out and be easily readable.
+
+The left image in figure 6 below, is difficult to read hence making it illegible for users to easily read and understand. On the other hand, the image on the right show a legible text and can be easily read by users.
+
+
+fig. 6: Principle of legibility
+In conclusion, mastering these principles, helps in creating interfaces that are not only visually appealing but also highly functional, providing users with a seamless and enjoyable experience.
+
+kindly give a reaction and feel free to message me via email at alicetaiwo2017@gmail.com
+
+Thank you!
